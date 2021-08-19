@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\91775\\Desktop\\DAA\\DAA_LAB_ASSIGNMENTS_C_2014647\\week 3",
+      "environment": [],
+      "program": "c:\\Users\\91775\\Desktop\\DAA\\DAA_LAB_ASSIGNMENTS_C_2014647\\week 3\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
