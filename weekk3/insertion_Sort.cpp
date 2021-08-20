@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Function to print an array
 void printArray(int array[], int size) {
   for (int i = 0; i < size; i++) {
     cout << array[i] << " ";
@@ -24,7 +23,6 @@ void insertionSort(int array[], int n) {
  
 }
 
-// Driver code
 int main() {
    int t;
     cout<<"Enter number of test cases ";
